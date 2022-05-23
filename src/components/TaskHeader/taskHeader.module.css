@@ -1,0 +1,24 @@
+.taskHeader {
+
+  height: 150px;
+  width:300px;
+  border:1px solid red;
+
+  margin: auto;
+  margin-top: 10%;
+ border-top-left-radius: 10px;
+ border-top-right-radius: 10px;
+ background-color: blue;
+}
+.h2{
+  text-align: center;
+  color:aliceblue
+}
+.remain{
+  color: aliceblue;
+ margin-left: 25px;
+
+}
+.remain1{
+  color: aliceblue;
+}
